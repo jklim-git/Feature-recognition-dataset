@@ -1,0 +1,8 @@
+## License
+
+The source code in this repository is licensed under the MIT License.
+
+The dataset contained in the `data` directory is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Please see `data/LICENSE-CC-BY-4.0.txt` for details.
