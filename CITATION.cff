@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use the datasets or source codes in this repository, please cite this repository."
+
+title: "DfAM datasets and python codes for implementations"
+type: dataset
+
+authors:
+  - family-names: "Kim"
+    given-names: "K."
+  - family-names: "Lim"
+    given-names: "J."
+  - family-names: "Park"
+    given-names: "K."
+
+url: "https://github.com/jklim-git/Feature-recognition-dataset"
